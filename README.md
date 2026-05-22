@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <p align="left">
   <a href="mailto:lyseomt@gmail.com">
-    <img src="https://img.shields.io/badge/lyseomt%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/lyseomt%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/lyseo_mt/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
 </p>
     
